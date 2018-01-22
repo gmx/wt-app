@@ -28,7 +28,11 @@
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="msapplication-tap-highlight" content="no" />
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width target-densityDpi=device-dpi" />
+    <meta name="viewport" content="width=device-width,
+                                initial-scale=1.0,
+                                maximum-scale=1.0,
+                                user-scalable=no,
+                                minimal-ui">
     <!-- This is a wide open CSP declaration. To lock this down for production, see below. -->
     <meta http-equiv="Content-Security-Policy" content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; media-src *; img-src * filesystem: data:">
     <!-- Good default declaration:
@@ -292,7 +296,6 @@
                 url     : "http://google.com",
                 type    : "GET",
                 data    : {},
-                dataType: 'json',
                 success : function() { alert("OK") },
                 error   : function( xhr, errorType, error ) { alert("error") }
             });
