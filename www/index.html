@@ -125,7 +125,7 @@
                     <br>
                     <label for="p"><input type="checkbox" id="p"> P</label>
                     <br>
-                    <div class="app-button app-button-large green" style="font-family: myanmar3" data-login>Login (၀ငျမညျ)</div>
+                    <div class="app-button app-button-large green" style="font-family: myanmar3" data-login>Login (၀င်မည်)</div>
                 </div>
             </div>
         </div>
@@ -414,9 +414,7 @@
             });
 
             App.controller('login', function( page ){
-                alert('page load');
                 $(page).find('[data-login]').on('click', function(){
-                    alert('after clicking');
                     var waiterID = $(page).find('[data-waiterID]').val();
                     var password = $(page).find('[data-password]').val();
                     var p = $(page).find( '#p' ).is( ":checked" );
