@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fc6ed1652eaee1149bcf228e0d1663fa41ead274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8fa773ee5f34619a4b7dae3a2835894be4f0080e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afe8eb4906b94df000e2b3714c864ec42d4e4ea6">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_0f9d1b37ad9f48c604badd1a1fb615450bfde5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_51b8b104a90687cd2bb619bee869219ef04883c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_694da0ce533a35b0708179c04ee3f02caf2b2956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a81f06ed15f1dab3e19657df2f16adcd7928018d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_2efa53e25fab4287b03b9b8833919653f51c1b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/pailay/Projects/mle-testing/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_b86d039d01bc3f2d55ba3cbdc6ebe610d94d4df6.jar" />
+    </item>
+
+</items>

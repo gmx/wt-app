@@ -1,0 +1,34 @@
+-x
+objective-c
+-arch
+x86_64
+-std=c99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/pailay/Library/Developer/Xcode/DerivedData/ModuleCache
+-fbuild-session-file=/Users/pailay/Library/Developer/Xcode/DerivedData/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk
+-fasm-blocks
+-mios-simulator-version-min=8.0
+-g
+-fvisibility=hidden
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-iquote
+-iquote
+-I/Users/pailay/Projects/mle-testing/platforms/ios/build/emulator/include
+-I/Users/pailay/Projects/mle-testing/platforms/ios/build/emulator/usr/local/lib/include
+-I/Users/pailay/Library/Developer/Xcode/DerivedData/MLE_Job-dpseffkxlrldmncvnleslyfhckrc/Build/Intermediates/UninstalledProducts/include
+-I/Users/pailay/Library/Developer/Xcode/DerivedData/MLE_Job-dpseffkxlrldmncvnleslyfhckrc/Build/Intermediates/UninstalledProducts/iphonesimulator/include
+-I/Users/pailay/Projects/mle-testing/platforms/ios/build/emulator
+-F/Users/pailay/Projects/mle-testing/platforms/ios/build/emulator
+-FMLE Job/Plugins/cordova-plugin-facebook4
+x86_64-apple-darwin15.2.0
+"4.2.1 Compatible Apple LLVM 7.3.0 (clang-703.0.29)"
+SDK_PRODUCT_BUILD_VERSION=13E230
+13E230
