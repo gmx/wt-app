@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ronetz.mlejob" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>MLE Job</name>
+    <name>eWaiter</name>
     <description>
-        Myanmar Life Express Application
+        eWaiter Version 2
     </description>
-    <author email="alt.332@pgmail.com" href="http://twitter.com/alt332">
-        Thiha Tun
-    </author>
+    <author email="moethetster@gmail.com" href="http://gmx.info">gmx</author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
