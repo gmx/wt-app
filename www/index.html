@@ -286,19 +286,6 @@
         <script src="config.js"></script>
         <script src="helpers.js"></script>
         <script>
-            if (navigator.onLine) {
-                alert('online')
-            } else {
-                alert('offline')
-            }
-
-            $.ajax({
-                url     : "http://google.com",
-                type    : "GET",
-                data    : {},
-                success : function() { alert("OK") },
-                error   : function( xhr, errorType, error ) { alert("error") }
-            });
 
             function getEndPoint( name ) {
 
@@ -373,9 +360,6 @@
             function makeRequest( service, fn ) {
 
                 var data = arguments.length == 3 ? arguments[ arguments.length-1 ] : {};
-
-                alert( 'data is' + JSON.stringify( data ));
-                alert( 'service is' + JSON.stringify( service ));
 
                 // make ajax req
                 return $.ajax({
